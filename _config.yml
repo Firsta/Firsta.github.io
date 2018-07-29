@@ -4,8 +4,8 @@ email: yipu0v0@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   张奕普的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://firsta.github.io # the base hostname & protocol for your site
-rss_url: /pages/feed.xml
+url: http://yipu0v0.github.io # the base hostname & protocol for your site
+#rss_url: /pages/feed.xml
 author: Zhang Yipu
 
 # Sidebar filter
@@ -16,13 +16,13 @@ recent_num: 20
 # Social account
 #twitter: suyan404
 #weibo: suyan0830
-#github: suyan
+github: yipu0v0
 #instagram: suyan404
 #linkedin: suyan404
 
 # avatar and Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+avatar: https://avatar-blog.oss-cn-beijing.aliyuncs.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-07-29%20%E4%B8%8B%E5%8D%885.44.58.png?Expires=1532861132&OSSAccessKeyId=TMP.AQEeqTwATmvP86OndQ34O8vE8NZ_FVBB9WcMagV67jJbUKLu7S1qpRmc7gQOADAtAhR1Ge7PWuOsXkq0MulcftqJtnWrXQIVAK2jX33RjRBmdird5-iFYuATSSW9&Signature=3OOiNEoqYcahg%2FrdDrhYHwsAZ3Y%3D
+favicon: https://avatar-blog.oss-cn-beijing.aliyuncs.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-07-29%20%E4%B8%8B%E5%8D%885.44.58.png?Expires=1532861132&OSSAccessKeyId=TMP.AQEeqTwATmvP86OndQ34O8vE8NZ_FVBB9WcMagV67jJbUKLu7S1qpRmc7gQOADAtAhR1Ge7PWuOsXkq0MulcftqJtnWrXQIVAK2jX33RjRBmdird5-iFYuATSSW9&Signature=3OOiNEoqYcahg%2FrdDrhYHwsAZ3Y%3D
 
 # disqus config
 disqus:
@@ -31,7 +31,7 @@ disqus:
 # google analytics config
 ga:
   id: UA-54767140-1
-  url: firsta.github.io
+  url: yipu0v0.github.io
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
