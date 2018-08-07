@@ -26,11 +26,11 @@ favicon: https://i.loli.net/2018/07/29/5b5dd1129b745.png
 
 # disqus config
 disqus:
-  shortname: yipu
+  shortname: yipu0v0
 
 # google analytics config
 ga:
-  id: UA-54767140-1
+  id: UA-123038939-1
   url: yipu0v0.github.io
 
 # Build settings
