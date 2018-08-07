@@ -5,6 +5,7 @@ category: 读书
 tags: [SICP, Programming, Wishful thinking]
 keywords: SICP, Programming, Wishful thinking
 ---
+>亮在荆州，以建安初与颍川石广元、徐元直、汝南孟公威等俱游学，三人务於精熟，而亮独观其大略。——《三国志》
 
 ### 按愿望思考（Wishful thinking）
 
